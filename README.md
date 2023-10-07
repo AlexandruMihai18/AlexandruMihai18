@@ -1,6 +1,6 @@
 # Hi There!
 
-I am a 2<sup>nd</sup> year Computer Science student from Bucharest, Romania.
+I am a 3<sup>nd</sup> year Computer Science student from Bucharest, Romania.
 
 ## About Me
 
